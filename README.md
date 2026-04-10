@@ -9,10 +9,7 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
