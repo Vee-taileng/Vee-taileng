@@ -9,12 +9,7 @@ I turn ideas into scalable web applications.
 Fullstack architect bridging elegant UIs with robust backends — React, Next.js, Node.js, and Neon Postgres. I ship things that actually work.
 
 ## 🛠 Tech Stack
-
-<div align="center">
-
 ![My Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,prisma,postgres,git,github,vercel)
-
-</div>
 
 | Layer | Tech |
 |-------|------|
