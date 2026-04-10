@@ -7,4 +7,19 @@
 <h1>Hi! I'm Vee Sengwan</h1>
 
 ## 🛠 Tech Stack
+
+<div align="center">
+
 ![My Stack](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,prisma,postgres,git,github,vercel)
+
+</div>
+
+| Layer | Tech |
+|-------|------|
+| Frontend | React.js / Next.js (App Router, Server Components) |
+| Styling | Tailwind CSS |
+| Language | TypeScript |
+| Backend | Node.js + Express.js |
+| ORM / DB | Prisma + PostgreSQL (Neon) |
+| Auth | JWT / NextAuth.js |
+| Hosting | Vercel + Railway |
