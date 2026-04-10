@@ -5,6 +5,8 @@
 <hr />
 
 <h1>Hi! I'm Vee Sengwan</h1>
+I turn ideas into scalable web applications.
+Fullstack architect bridging elegant UIs with robust backends — React, Next.js, Node.js, and Neon Postgres. I ship things that actually work.
 
 ## 🛠 Tech Stack
 
