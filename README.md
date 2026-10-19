@@ -15,7 +15,7 @@ Fullstack architect bridging elegant UIs with robust backends — React, Next.js
 |-------|------|
 | Frontend | React.js / Next.js (App Router, Server Components) |
 | Styling | Tailwind CSS |
-| Language | TypeScript |
+| Language | TypeScript + Python |
 | Backend | Node.js + Express.js |
 | ORM / DB | Prisma + PostgreSQL (Neon) |
 | Auth | JWT / NextAuth.js |
